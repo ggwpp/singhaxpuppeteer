@@ -1,7 +1,5 @@
 # SinghaRewards automated point collecting by Puppeteer
 
-![](gif.gif)
-
 ## Installation
 ```
 npm install
